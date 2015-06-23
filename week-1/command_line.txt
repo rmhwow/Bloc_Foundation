@@ -1,0 +1,20 @@
+  ```  mkdir checkpoint_exercise
+    cd checkpoint_exercise/
+    touch bloc_cl_checkpoint.txt
+    ls
+    open bloc_cl_checkpoint.txt 
+    p bloc_cl_checkpoint.txt 
+    bloc_cl_checkpoint.txt
+    head bloc_cl_checkpoint.txt
+    mv bloc_cl_checkpoint.txt cl_checkpoint.tx
+    ls
+    head bloc_cl_checkpoint.txt
+    head cl_checkpoint.txt
+    ls
+    head cl_checkpoint.txt
+    mv cl_checkpoint.tx cl_checkpoint.txt
+    ls
+    head cl_checkpoint.txt 
+    cat cl_checkpoint.txt 
+    history
+```
