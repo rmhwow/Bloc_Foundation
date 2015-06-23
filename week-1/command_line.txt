@@ -1,4 +1,4 @@
-  ```  mkdir checkpoint_exercise
+mkdir checkpoint_exercise
     cd checkpoint_exercise/
     touch bloc_cl_checkpoint.txt
     ls
@@ -17,4 +17,5 @@
     head cl_checkpoint.txt 
     cat cl_checkpoint.txt 
     history
-```
+
+
